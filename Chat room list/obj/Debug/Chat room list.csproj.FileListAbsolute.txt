@@ -1,0 +1,11 @@
+C:\Users\unzi2\source\repos\Chat room list\bin\Debug\Chat room list.exe.config
+C:\Users\unzi2\source\repos\Chat room list\bin\Debug\Chat room list.exe
+C:\Users\unzi2\source\repos\Chat room list\bin\Debug\Chat room list.pdb
+C:\Users\unzi2\source\repos\Chat room list\obj\Debug\Chat room list.csproj.AssemblyReference.cache
+C:\Users\unzi2\source\repos\Chat room list\obj\Debug\Chat_room_list.Form1.resources
+C:\Users\unzi2\source\repos\Chat room list\obj\Debug\Chat_room_list.Properties.Resources.resources
+C:\Users\unzi2\source\repos\Chat room list\obj\Debug\Chat room list.csproj.GenerateResource.cache
+C:\Users\unzi2\source\repos\Chat room list\obj\Debug\Chat room list.csproj.CoreCompileInputs.cache
+C:\Users\unzi2\source\repos\Chat room list\obj\Debug\Chat room list.exe
+C:\Users\unzi2\source\repos\Chat room list\obj\Debug\Chat room list.pdb
+C:\Users\unzi2\source\repos\Chat room list\obj\Debug\Chat_room_list.Form2.resources
